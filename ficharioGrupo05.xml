@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ficharioGrupo05>
+	<produto num_produto="1">
+		<nome>Galaxy Note III</nome>
+		<descricao>O Galaxy Note 3 possui Caneta S Pen com o novo Comando Suspenso de 5 opções de 
+		funcionalidades que facilitam o dia a dia: Lembrete de ação, Bloco de rascunho, Escrita na tela, 
+		S Finder e Janela da caneta. SuaTela é em Super AMOLED Full HD de 5,7", Processador Quadri-Core de 2,3 GHz 
+		e duas câmeras, uma de 13MP traseira e outra de 2MP frontal</descricao>
+		<valor>R$2.399,00</valor>
+		<quantidade>32</quantidade>
+		<marca>
+			<nome>Samsung</nome>
+		</marca>
+		<categoria>
+			<nome>Celular</nome>
+			<datacadastro>11-06-2014</datacadastro>
+		</categoria>
+	</produto>
+</ficharioGrupo05>
